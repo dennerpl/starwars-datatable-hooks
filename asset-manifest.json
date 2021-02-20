@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/starwars-datatable-hooks/static/css/main.050523cc.chunk.css",
+    "main.js": "/starwars-datatable-hooks/static/js/main.23869dc0.chunk.js",
+    "main.js.map": "/starwars-datatable-hooks/static/js/main.23869dc0.chunk.js.map",
+    "runtime-main.js": "/starwars-datatable-hooks/static/js/runtime-main.5be44aa5.js",
+    "runtime-main.js.map": "/starwars-datatable-hooks/static/js/runtime-main.5be44aa5.js.map",
+    "static/js/2.4386ee75.chunk.js": "/starwars-datatable-hooks/static/js/2.4386ee75.chunk.js",
+    "static/js/2.4386ee75.chunk.js.map": "/starwars-datatable-hooks/static/js/2.4386ee75.chunk.js.map",
+    "index.html": "/starwars-datatable-hooks/index.html",
+    "precache-manifest.8d98cd4153b0c429acbc7437c60e09f1.js": "/starwars-datatable-hooks/precache-manifest.8d98cd4153b0c429acbc7437c60e09f1.js",
+    "service-worker.js": "/starwars-datatable-hooks/service-worker.js",
+    "static/css/main.050523cc.chunk.css.map": "/starwars-datatable-hooks/static/css/main.050523cc.chunk.css.map",
+    "static/js/2.4386ee75.chunk.js.LICENSE.txt": "/starwars-datatable-hooks/static/js/2.4386ee75.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5be44aa5.js",
+    "static/js/2.4386ee75.chunk.js",
+    "static/css/main.050523cc.chunk.css",
+    "static/js/main.23869dc0.chunk.js"
+  ]
+}
